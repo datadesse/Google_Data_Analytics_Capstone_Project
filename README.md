@@ -12,6 +12,7 @@ Coursera Project which is part of the Google Data Analytics Professional Certifi
 
 **Data source and Tools used** 
 - I used Python's libraries-BeautifulSoup, Requests and Pandas to scrape details of Data Analyst jobs advertising- titles, dates, salaries, locations, employers and working hours from [REED UK website](www.reed.co.uk) to answer the problems
+- I experimented with my line of codes on the first page of the website before applying it to all pages then I created a single function that can automatically extract the required information from all pages and saved the data as a CSV file. 
 
 
 **Tools used for Analysis**
@@ -20,10 +21,7 @@ Coursera Project which is part of the Google Data Analytics Professional Certifi
 
 **Challenges**
 - I had problems changing the date column to the DateTime format. It took me a long time to find out that the [REED UK website](www.reed.co.uk) misspelt 'Feburary' instead of 'February' 
-- The date columns have multiple formats such as 'days ago', 'yesterday' and months
-- Similarly, the salary column has figured salaries - range (minimum and maximum), per year, per hour, and per day, There is three string  salaries 'Competitive salary', ' Training Course' & 'Salary negotiable'   and one value contains wrong currency Euro (€) sign instead of £. I spent so much time cleaning the data than I expected.  
-
-
+- The date column has multiple formats such as 'days ago', 'yesterday' and months. Similarly, the salary column has figured salaries - range (minimum and maximum), per year, per hour, and per day, There are three strings  salaries 'Competitive salary', ' Training Course' & 'Salary negotiable'   and one value contains wrong currency sign Euro (€) instead of £. I spent a considerable amount of time cleaning the data than I expected.  
 
 
 
