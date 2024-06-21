@@ -1,4 +1,5 @@
-# web-scraping-of-data-analyst-jobs-analysis-
+# Google Data Analytics Capstone: Complete a Case Study
+## Web Scraping of Data Analyst Jobs Analysis
 
 -This project is a showcase for Scrape and Analyze data analyst job requirements with Python
 Coursera Project which is part of the Google Data Analytics Professional Certificate course I completed.
