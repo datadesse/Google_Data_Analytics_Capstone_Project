@@ -25,7 +25,7 @@ Coursera Project which is part of the Google Data Analytics Professional Certifi
 - The date column has multiple formats such as 'days ago', 'yesterday' and months. Similarly, the salary column has figured salaries - range (minimum and maximum), per year, per hour, and per day, There are three strings  salaries 'Competitive salary', ' Training Course' & 'Salary negotiable'   and one value contains wrong currency sign Euro (€) instead of £. I spent a considerable amount of time cleaning the data than I expected.  
 
 **Coursera Project Network**
-- The scrapping tool I created is also available on Coursera Project Network and can be accessed  using the following link: [Scrape and analyze data analystjob requirements with Python](https://sharedxfmjqibr.labs.coursera.org/notebooks/web_scraping_of%20data_analyst_jobs_23_06_24.ipynb)
+- The scrapping tool I created is also available on Coursera Project Network and can be accessed  using the following link: [D Tadesse's scrapping_tool](https://sharedxfmjqibr.labs.coursera.org/notebooks/web_scraping_of%20data_analyst_jobs_23_06_24.ipynb)
 
 
 
